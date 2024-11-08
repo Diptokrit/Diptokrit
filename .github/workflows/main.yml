@@ -1,0 +1,6 @@
+class main{
+
+public static void main(Srings[] args){
+System.out.println("Hello World");
+}
+}
